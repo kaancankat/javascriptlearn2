@@ -30,3 +30,5 @@ sonuc = gun;
 console.log(sonuc);
 console.log(typeof sonuc);
 
+
+
