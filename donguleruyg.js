@@ -71,3 +71,5 @@ for(let ogrenci of ogrenciler) {
 }
 
 //hataların sebebi değişkenlerin birbiri ile kesişiyor olmasıdır.
+
+
