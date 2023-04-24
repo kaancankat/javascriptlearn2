@@ -96,3 +96,6 @@ window.addEventListener('keydown', function(e) {
 });
 
 displayWord()
+
+
+
