@@ -7,3 +7,6 @@ function Quiz(sorular) {
 Quiz.prototype.soruGetir = function() {
     return this.sorular[this.soruIndex];
 }
+
+
+
